@@ -1,0 +1,52 @@
+{
+  "gpt2": {
+    "status": "downloaded",
+    "local_path": "models/gpt2",
+    "validation_status": null
+  },
+  "microsoft-dialoGPT-small": {
+    "status": "available",
+    "local_path": null,
+    "validation_status": null
+  },
+  "codebert-base-mlm": {
+    "status": "available",
+    "local_path": null,
+    "validation_status": null
+  },
+  "distilgpt2": {
+    "status": "available",
+    "local_path": null,
+    "validation_status": null
+  },
+  "tinyllama-1.1b": {
+    "status": "available",
+    "local_path": null,
+    "validation_status": null
+  },
+  "codebert-base": {
+    "status": "available",
+    "local_path": null,
+    "validation_status": null
+  },
+  "codet5-base": {
+    "status": "available",
+    "local_path": null,
+    "validation_status": null
+  },
+  "starcoder-base": {
+    "status": "available",
+    "local_path": null,
+    "validation_status": null
+  },
+  "deepseek-coder-6.7b": {
+    "status": "available",
+    "local_path": null,
+    "validation_status": null
+  },
+  "bash-gpt": {
+    "status": "available",
+    "local_path": null,
+    "validation_status": null
+  }
+}
