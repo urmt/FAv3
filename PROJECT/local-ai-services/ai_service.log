@@ -1,0 +1,33 @@
+2025-09-09 08:37:57,383 - utils.logging - INFO - Logging configured with level INFO
+2025-09-09 08:37:57,387 - utils.logging - INFO - Starting Enhanced FAv2 Local AI Service
+2025-09-09 08:37:57,389 - utils.logging - INFO - Initializing services...
+2025-09-09 08:37:57,401 - utils.logging - INFO - System detected: medium tier
+2025-09-09 08:37:57,403 - utils.logging - INFO - CPU: Unknown CPU (16 cores)
+2025-09-09 08:37:57,404 - utils.logging - INFO - Memory: 62009 MB
+2025-09-09 08:37:57,405 - utils.logging - INFO - GPUs: 0
+2025-09-09 08:37:57,406 - utils.logging - INFO - Enhanced FAv2 Local AI Service started successfully
+2025-09-09 08:37:59,611 - utils.logging - INFO - Shutting down Enhanced FAv2 Local AI Service
+2025-09-09 08:38:03,209 - utils.logging - INFO - Logging configured with level INFO
+2025-09-09 08:38:03,212 - utils.logging - INFO - Starting Enhanced FAv2 Local AI Service
+2025-09-09 08:38:03,213 - utils.logging - INFO - Initializing services...
+2025-09-09 08:38:03,222 - utils.logging - INFO - System detected: medium tier
+2025-09-09 08:38:03,224 - utils.logging - INFO - CPU: Unknown CPU (16 cores)
+2025-09-09 08:38:03,225 - utils.logging - INFO - Memory: 62009 MB
+2025-09-09 08:38:03,226 - utils.logging - INFO - GPUs: 0
+2025-09-09 08:38:03,227 - utils.logging - INFO - Enhanced FAv2 Local AI Service started successfully
+2025-09-09 08:39:44,844 - utils.logging - INFO - Shutting down Enhanced FAv2 Local AI Service
+2025-09-09 08:44:55,736 - utils.logging - INFO - Logging configured with level INFO
+2025-09-09 08:44:55,740 - utils.logging - INFO - Starting Enhanced FAv2 Local AI Service
+2025-09-09 08:44:55,741 - utils.logging - INFO - Initializing services...
+2025-09-09 08:44:55,744 - HardwareDetectionService - WARNING - NVML initialization failed: NVML Shared Library Not Found
+2025-09-09 08:44:55,746 - HardwareDetectionService - WARNING - NVML initialization failed: NVML Shared Library Not Found
+2025-09-09 08:44:56,921 - utils.logging - INFO - System detected: medium tier
+2025-09-09 08:44:56,923 - utils.logging - INFO - CPU: AMD EPYC 7T83 64-Core Processor (16 cores)
+2025-09-09 08:44:56,925 - utils.logging - INFO - Memory: 62009 MB
+2025-09-09 08:44:56,928 - utils.logging - INFO - GPUs: 0
+2025-09-09 08:44:56,931 - utils.logging - INFO - Enhanced FAv2 Local AI Service started successfully
+2025-09-09 08:45:07,547 - utils.logging - ERROR - Health check failed: 1 validation error for HealthResponse
+system_metrics
+  Input should be a valid dictionary or instance of SystemMetricsModel [type=model_type, input_value=SystemMetrics(timestamp=1...=None, temperature=None), input_type=SystemMetrics]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-09-09 08:45:49,202 - EnhancedModelManager - INFO - Successfully downloaded gpt2

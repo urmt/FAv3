@@ -1,0 +1,16 @@
+# Core Framework
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.0
+
+# System Information & Hardware Detection
+psutil>=5.9.6
+py-cpuinfo>=9.0.0
+
+# Download Management
+requests>=2.31.0
+tqdm>=4.66.1
+aiofiles>=23.2.1
+
+# Configuration & Utilities
+python-dotenv>=1.0.0

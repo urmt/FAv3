@@ -1,0 +1,31 @@
+# Core Framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+
+# AI/ML Libraries - Compatible versions
+torch>=2.0.0,<3.0.0
+transformers>=4.30.0
+huggingface-hub>=0.16.0
+safetensors>=0.3.0
+tokenizers>=0.13.0
+
+# System Information & Hardware Detection
+psutil>=5.9.0
+py-cpuinfo>=9.0.0
+GPUtil>=1.4.0
+
+# Download Management
+requests>=2.28.0
+tqdm>=4.65.0
+aiofiles>=23.1.0
+
+# Configuration & Utilities
+python-dotenv>=1.0.0
+pathlib
+
+# Data Processing
+numpy>=1.21.0
+
+# Optional GPU support
+py3nvml>=0.2.6
