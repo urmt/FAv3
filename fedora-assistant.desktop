@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Fedora Assistant AI
+Comment=Local AI Development Assistant
+Exec=fedora-assistant
+Icon=/usr/share/FedoraAssistant/public/favicon.ico
+Terminal=false
+Type=Application
+Categories=Development;AI;
+StartupWMClass=FedoraAssistant
