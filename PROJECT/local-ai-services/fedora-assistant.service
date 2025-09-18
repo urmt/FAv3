@@ -1,0 +1,13 @@
+[Unit]
+Description=Fedora Assistant AI Service
+After=network.target
+
+[Service]
+Type=simple
+User=%i
+ExecStart=/usr/bin/python3 /usr/share/FedoraAssistant/local-ai-service/main.py
+Restart=on-failure
+Environment="PYTHONUNBUFFERED=1"
+
+[Install]
+WantedBy=multi-user.target
